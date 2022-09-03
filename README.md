@@ -24,9 +24,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <center>
-  <a href="https://github.com/MaxBabichevskiy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxBabichevskyi&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBabichevskyi&theme=dark&layout=compact&langs_count=8&hide=php"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxBabichevskyi&show_icons=true&theme=radical)
 </a>
 </center>
 
