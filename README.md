@@ -33,7 +33,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <center>
-<a href="https://www.instagram.com/_mmaxxim/"><img src="https://img.shields.io/badge/-@kopasxa_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/_mmaxxim/"><img src="https://img.shields.io/badge/-@_mmaxxim-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </center>
 
 ### 💸 &nbsp;Donations
